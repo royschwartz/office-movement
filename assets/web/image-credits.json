@@ -1,0 +1,206 @@
+[
+  {
+    "exercise": "Brisk knee drives",
+    "files": [
+      "assets/web/march.jpg"
+    ],
+    "source": {
+      "title": "Polina Tankilevitch / Pexels",
+      "url": "https://www.pexels.com/photo/women-doing-high-knees-exercise-6516199/",
+      "license": "Pexels License"
+    },
+    "adaptation": "Lift one knee at a time. Keep one foot on the floor throughout."
+  },
+  {
+    "exercise": "Shadowboxing",
+    "files": [
+      "assets/web/shadowboxing.jpg"
+    ],
+    "source": {
+      "title": "Pexels",
+      "url": "https://www.pexels.com/photo/a-man-shadowboxing-8810145/",
+      "license": "Pexels License"
+    },
+    "adaptation": "The photo shows a straight punch. No gloves, ring, or bouncing needed."
+  },
+  {
+    "exercise": "Dumbbell squat to chair",
+    "files": [
+      "assets/web/squat-0.jpg",
+      "assets/web/squat-1.jpg"
+    ],
+    "source": {
+      "title": "Free Exercise DB",
+      "url": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Dumbbell_Squat_To_A_Bench",
+      "license": "Public domain / Unlicense"
+    },
+    "adaptation": "Photo uses a bench. A stable chair against a wall works as your depth target."
+  },
+  {
+    "exercise": "Counter push-up",
+    "files": [
+      "assets/web/incline-push-up-0.jpg",
+      "assets/web/incline-push-up-1.jpg"
+    ],
+    "source": {
+      "title": "Free Exercise DB",
+      "url": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Incline_Push-Up",
+      "license": "Public domain / Unlicense"
+    },
+    "adaptation": "Photo shows a low bench. A fixed counter is an easier starting height; lower is harder."
+  },
+  {
+    "exercise": "Dumbbell Romanian deadlift",
+    "files": [
+      "assets/web/dumbbell-hinge-0.jpg",
+      "assets/web/dumbbell-hinge-1.jpg"
+    ],
+    "source": {
+      "title": "Free Exercise DB",
+      "url": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Stiff-Legged_Dumbbell_Deadlift",
+      "license": "Public domain / Unlicense"
+    },
+    "adaptation": "Keep a soft knee bend. Only lower as far as your hips allow with a long back."
+  },
+  {
+    "exercise": "Dumbbell row",
+    "files": [
+      "assets/web/dumbbell-row-0.jpg",
+      "assets/web/dumbbell-row-1.jpg"
+    ],
+    "source": {
+      "title": "Free Exercise DB",
+      "url": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Bent_Over_Two-Dumbbell_Row",
+      "license": "Public domain / Unlicense"
+    },
+    "adaptation": "Use two dumbbells. A band under both shoes is an alternative."
+  },
+  {
+    "exercise": "Loaded calf raise",
+    "files": [
+      "assets/web/calf-raise-0.jpg",
+      "assets/web/calf-raise-1.jpg"
+    ],
+    "source": {
+      "title": "Free Exercise DB",
+      "url": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Standing_Dumbbell_Calf_Raise",
+      "license": "Public domain / Unlicense"
+    },
+    "adaptation": "Photo shows a low board. Do this on flat floor in the office."
+  },
+  {
+    "exercise": "Counter plank",
+    "files": [
+      "assets/web/incline-plank-0.jpg"
+    ],
+    "source": {
+      "title": "Free Exercise DB",
+      "url": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Incline_Push-Up",
+      "license": "Public domain / Unlicense"
+    },
+    "adaptation": "Hold the straight-arm position. Use a fixed counter rather than a movable chair."
+  },
+  {
+    "exercise": "Arm circles",
+    "files": [
+      "assets/web/mobility-arm-circles-0.jpg",
+      "assets/web/mobility-arm-circles-1.jpg"
+    ],
+    "source": {
+      "title": "Free Exercise DB",
+      "url": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Arm_Circles",
+      "license": "Public domain / Unlicense"
+    },
+    "adaptation": "Circle the arms without lifting your shoulders toward your ears."
+  },
+  {
+    "exercise": "Seated side bend",
+    "files": [
+      "assets/web/mobility-seated-side-bend-0.jpg",
+      "assets/web/mobility-seated-side-bend-1.jpg"
+    ],
+    "source": {
+      "title": "Free Exercise DB",
+      "url": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Chair_Lower_Back_Stretch",
+      "license": "Public domain / Unlicense"
+    },
+    "adaptation": "Keep both hips on the seat."
+  },
+  {
+    "exercise": "Shoulder rolls",
+    "files": [
+      "assets/web/mobility-shoulder-roll-0.jpg",
+      "assets/web/mobility-shoulder-roll-1.jpg"
+    ],
+    "source": {
+      "title": "Free Exercise DB",
+      "url": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Shoulder_Circles",
+      "license": "Public domain / Unlicense"
+    },
+    "adaptation": "Roll smoothly; relax your arms."
+  },
+  {
+    "exercise": "Wrist circles",
+    "files": [
+      "assets/web/mobility-wrist-circles-0.jpg",
+      "assets/web/mobility-wrist-circles-1.jpg"
+    ],
+    "source": {
+      "title": "Free Exercise DB",
+      "url": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Wrist_Circles",
+      "license": "Public domain / Unlicense"
+    },
+    "adaptation": "Small wrist circles with relaxed hands."
+  },
+  {
+    "exercise": "Standing chest opener",
+    "files": [
+      "assets/web/mobility-chest-stretch-0.jpg",
+      "assets/web/mobility-chest-stretch-1.jpg"
+    ],
+    "source": {
+      "title": "Free Exercise DB",
+      "url": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Elbows_Back",
+      "license": "Public domain / Unlicense"
+    },
+    "adaptation": "Draw the elbows back only as far as feels comfortable."
+  },
+  {
+    "exercise": "Standing calf stretch",
+    "files": [
+      "assets/web/mobility-calf-stretch-0.jpg",
+      "assets/web/mobility-calf-stretch-1.jpg"
+    ],
+    "source": {
+      "title": "Free Exercise DB",
+      "url": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Calf_Stretch_Hands_Against_Wall",
+      "license": "Public domain / Unlicense"
+    },
+    "adaptation": "Keep the back heel down; change sides."
+  },
+  {
+    "exercise": "Standing hamstring stretch",
+    "files": [
+      "assets/web/mobility-standing-hamstring-0.jpg"
+    ],
+    "source": {
+      "title": "Free Exercise DB",
+      "url": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Standing_Hamstring_and_Calf_Stretch",
+      "license": "Public domain / Unlicense"
+    },
+    "adaptation": "The strap is optional. Keep the stretch gentle and your back long."
+  },
+  {
+    "exercise": "Single-leg hip circles",
+    "files": [
+      "assets/web/mobility-hip-circles-0.jpg",
+      "assets/web/mobility-hip-circles-1.jpg"
+    ],
+    "source": {
+      "title": "Free Exercise DB",
+      "url": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Standing_Hip_Circles",
+      "license": "Public domain / Unlicense"
+    },
+    "adaptation": "The model balances unsupported. Keep a fixed counter within reach."
+  }
+]

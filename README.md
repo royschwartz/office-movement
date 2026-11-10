@@ -6,7 +6,7 @@ An illustrated guide to low-impact office exercise: strength, mobility, stretchi
 
 ## Included
 
-- 16 original exercise diagrams, instructions, starter doses, and easier/harder options
+- 16 exercises with web-sourced demonstration photos, instructions, starter doses, and easier/harder options
 - 5-, 15-, and 25-minute routines with a pausable, self-paced timer
 - Exercise filters, mobile layouts, and a printable guide
 - Links to primary health resources, plus progression and weekly activity guidance
@@ -23,6 +23,6 @@ python3 -m http.server 8000
 
 Then open `http://localhost:8000`.
 
-`index.html`, `style.css`, and `app.js` implement the page. `data.js` holds the exercise content and citations. `assets/` contains original SVG artwork and its generator. Images from external health organizations are not republished.
+`index.html`, `style.css`, and `app.js` implement the page. `data.js` holds the exercise content and citations. `assets/web/` contains photos from Free Exercise DB (public domain / Unlicense) and Pexels (Pexels License), with an image-credit manifest and license copy. Photos are kept intact; office adaptations are explained beside them. Images from external health organizations are not republished.
 
 GitHub Pages serves the repository's root on the `main` branch. No analytics, accounts, network APIs, external fonts, or user-data storage are used.

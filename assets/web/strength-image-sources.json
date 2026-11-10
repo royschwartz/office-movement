@@ -1,0 +1,79 @@
+[
+  {
+    "file": "squat-0.jpg",
+    "sourceExercise": "Dumbbell_Squat_To_A_Bench",
+    "url": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Squat_To_A_Bench/0.jpg",
+    "license": "Unlicense",
+    "sourcePage": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Dumbbell_Squat_To_A_Bench"
+  },
+  {
+    "file": "squat-1.jpg",
+    "sourceExercise": "Dumbbell_Squat_To_A_Bench",
+    "url": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Squat_To_A_Bench/1.jpg",
+    "license": "Unlicense",
+    "sourcePage": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Dumbbell_Squat_To_A_Bench"
+  },
+  {
+    "file": "incline-push-up-0.jpg",
+    "sourceExercise": "Incline_Push-Up",
+    "url": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Push-Up/1.jpg",
+    "license": "Unlicense",
+    "sourcePage": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Incline_Push-Up"
+  },
+  {
+    "file": "incline-push-up-1.jpg",
+    "sourceExercise": "Incline_Push-Up",
+    "url": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Push-Up/0.jpg",
+    "license": "Unlicense",
+    "sourcePage": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Incline_Push-Up"
+  },
+  {
+    "file": "dumbbell-hinge-0.jpg",
+    "sourceExercise": "Stiff-Legged_Dumbbell_Deadlift",
+    "url": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/0.jpg",
+    "license": "Unlicense",
+    "sourcePage": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Stiff-Legged_Dumbbell_Deadlift"
+  },
+  {
+    "file": "dumbbell-hinge-1.jpg",
+    "sourceExercise": "Stiff-Legged_Dumbbell_Deadlift",
+    "url": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/1.jpg",
+    "license": "Unlicense",
+    "sourcePage": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Stiff-Legged_Dumbbell_Deadlift"
+  },
+  {
+    "file": "dumbbell-row-0.jpg",
+    "sourceExercise": "Bent_Over_Two-Dumbbell_Row",
+    "url": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent_Over_Two-Dumbbell_Row/0.jpg",
+    "license": "Unlicense",
+    "sourcePage": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Bent_Over_Two-Dumbbell_Row"
+  },
+  {
+    "file": "dumbbell-row-1.jpg",
+    "sourceExercise": "Bent_Over_Two-Dumbbell_Row",
+    "url": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent_Over_Two-Dumbbell_Row/1.jpg",
+    "license": "Unlicense",
+    "sourcePage": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Bent_Over_Two-Dumbbell_Row"
+  },
+  {
+    "file": "calf-raise-0.jpg",
+    "sourceExercise": "Standing_Dumbbell_Calf_Raise",
+    "url": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Dumbbell_Calf_Raise/0.jpg",
+    "license": "Unlicense",
+    "sourcePage": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Standing_Dumbbell_Calf_Raise"
+  },
+  {
+    "file": "calf-raise-1.jpg",
+    "sourceExercise": "Standing_Dumbbell_Calf_Raise",
+    "url": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Dumbbell_Calf_Raise/1.jpg",
+    "license": "Unlicense",
+    "sourcePage": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Standing_Dumbbell_Calf_Raise"
+  },
+  {
+    "file": "incline-plank-0.jpg",
+    "sourceExercise": "Incline_Push-Up",
+    "url": "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Push-Up/1.jpg",
+    "license": "Unlicense",
+    "sourcePage": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Incline_Push-Up"
+  }
+]
