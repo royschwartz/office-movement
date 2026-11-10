@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#204f46">
+  <meta name="description" content="An illustrated office exercise guide for strength, mobility, balance and gentle cardio. Standing and seated movements. No jumping, kneeling or floor work.">
+  <title>Office Movement — Make room to move</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css">
+  <script src="data.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#moves">Skip to the exercises</a>
+  <header class="site-header wrap">
+    <a class="brand" href="#top" aria-label="Office Movement home"><span class="brand-mark" aria-hidden="true">↗</span><span>office<br>movement</span></a>
+    <nav aria-label="Main navigation"><a href="#routine">Your routine</a><a href="#moves">The movements</a><a href="#week">Make it a habit</a></nav>
+    <button class="print-button" data-print>Print guide <span aria-hidden="true">↗</span></button>
+  </header>
+
+  <main id="top">
+    <section class="hero wrap" aria-labelledby="hero-title">
+      <div class="hero-copy">
+        <p class="eyebrow"><span class="small-dot"></span> A little space. A little time.</p>
+        <h1 id="hero-title">Make room<br>to <em>move.</em></h1>
+        <p class="hero-description">Get stronger, loosen up, and keep moving well as you get older. A practical, illustrated guide you can use right in your office.</p>
+        <a class="button primary" href="#routine">Find your routine <span aria-hidden="true">↗</span></a>
+        <p class="hero-note">A sturdy chair. A wall. Room to take a step.</p>
+      </div>
+      <div class="hero-art">
+        <div class="hero-art-heading"><span>Movement 01 / 16</span><span class="hand-note">Start where you are.</span></div>
+        <img src="assets/march.svg" alt="Two standing positions showing a gentle march, lifting one foot at a time with relaxed arm swings." width="600" height="380" fetchpriority="high">
+        <div class="hero-art-footer"><span><strong>The office march</strong><br>One foot, then the other. No jumping.</span><a href="#exercise-march" aria-label="See how to march in place">↗</a></div>
+      </div>
+    </section>
+
+    <div class="principles wrap" aria-label="Guide features"><span><b aria-hidden="true">✓</b> No kneeling</span><span><b aria-hidden="true">✓</b> No floor work</span><span><b aria-hidden="true">✓</b> No jumping</span><span><b aria-hidden="true">✓</b> Standing + seated</span><span><b aria-hidden="true">✓</b> Go at your pace</span></div>
+
+    <section class="routine-section wrap section" id="routine" aria-labelledby="routine-heading">
+      <div class="section-heading"><div><p class="eyebrow">01 / Put a little movement in your day</p><h2 id="routine-heading">How much time do you have?</h2></div><p>Choose a starting point.<br>Pause or rest whenever you need.</p></div>
+      <div class="routine-options" role="group" aria-label="Choose a routine">
+        <button class="routine-option" data-plan="5" aria-pressed="false"><span class="duration">5 <small>min</small></span><span class="option-name">Desk reset</span><span class="option-description">An easy break from sitting.<br>Cardio + mobility + a stretch.</span><span class="option-check" aria-hidden="true">↗</span></button>
+        <button class="routine-option selected" data-plan="15" aria-pressed="true"><span class="duration">15 <small>min</small></span><span class="option-name">Everyday circuit</span><span class="option-description">A little of everything.<br>One round of strength work.</span><span class="option-check" aria-hidden="true">✓</span></button>
+        <button class="routine-option" data-plan="25" aria-pressed="false"><span class="duration">25 <small>min</small></span><span class="option-name">Build it up</span><span class="option-description">More time to get stronger.<br>Two rounds of strength work.</span><span class="option-check" aria-hidden="true">↗</span></button>
+      </div>
+      <div class="routine-bottom"><div><p id="plan-description"></p><p class="subtle" id="plan-equipment"></p></div><button class="button primary" id="start-routine">Start 15-minute routine <span aria-hidden="true">→</span></button></div>
+      <details class="routine-preview"><summary>See the routine, step by step <span aria-hidden="true">+</span></summary><p class="subtle">Times are flexible. For strength, finish your slow reps, then rest for the rest of the minute. Pause for extra rest. The timer waits for you between movements, so your session may take longer.</p><ol id="routine-list"></ol></details>
+    </section>
+
+    <aside class="setup wrap" aria-label="Before you begin"><div class="setup-title"><span aria-hidden="true">↳</span><h3>A small setup.<br>A better session.</h3></div><p><strong>Make it stable.</strong> Use a firm chair without wheels, on a surface where it won’t slip. Clear your space and keep a chair or wall within reach for balance.</p><p><strong>Start gently.</strong> Warm up with easy movement. Use a comfortable range and breathe throughout. Begin with fewer reps if you’re getting back into exercise.</p><p><strong>A little resistance helps.</strong> A light band, weights, or full water bottles add pulling resistance for your back and arms.</p></aside>
+
+    <section class="moves-section wrap section" id="moves" aria-labelledby="moves-heading">
+      <div class="section-heading"><div><p class="eyebrow">02 / Your movement library</p><h2 id="moves-heading">A move for every part of you.</h2></div><p>Pictures to get you started.<br>Open any card for the details.</p></div>
+      <div class="filter-bar"><div class="filters" role="group" aria-label="Filter exercises by benefit"><button data-filter="all" aria-pressed="true" class="active">All movements <span>16</span></button><button data-filter="strength" aria-pressed="false">Strength</button><button data-filter="cardio" aria-pressed="false">Cardio</button><button data-filter="mobility" aria-pressed="false">Mobility</button><button data-filter="stretch" aria-pressed="false">Stretching</button><button data-filter="balance" aria-pressed="false">Balance</button></div><span id="result-count" role="status">16 movements</span></div>
+      <p class="library-note">These are gentle starting amounts, not a test. Keep the movements smooth. The drawings are simplified guides; follow the instructions and your comfortable range.</p>
+      <div class="exercise-grid" id="exercise-grid"></div>
+      <noscript><p>This interactive guide needs JavaScript to display the exercise cards. You can also find illustrated <a href="https://www.nhs.uk/live-well/exercise/strength-exercises/">strength exercises</a> and <a href="https://www.nhs.uk/live-well/exercise/sitting-exercises/">seated exercises</a> at the NHS.</p></noscript>
+    </section>
+
+    <section class="week-section section" id="week" aria-labelledby="week-heading"><div class="wrap">
+      <div class="section-heading"><div><p class="eyebrow">03 / The bigger picture</p><h2 id="week-heading">Little sessions. A lasting habit.</h2></div><p>Build up gradually.<br>Consistency comes before intensity.</p></div>
+      <div class="weekly-grid"><article><span class="weekly-number">150 <small>min</small></span><h3>Cardio across your week</h3><p>Work toward at least 150 minutes of moderate activity, such as brisk walking. You can talk, but not sing. Office marching counts when it reaches that effort; gentle mobility and rest do not.</p><a href="https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html">CDC activity guidance ↗</a></article><article><span class="weekly-number">2+ <small>days</small></span><h3>Make room for strength</h3><p>Train the major muscle groups at least twice a week, with a rest day between working the same muscles. Start with one set, then build toward 2–3 sets of 8–12 controlled reps.</p><a href="https://www.nhs.uk/live-well/exercise/how-to-improve-strength-flexibility/">NHS strength guidance ↗</a></article><article><span class="weekly-number habit-number">Often <span aria-hidden="true">↗</span></span><h3>Move, stretch, find your balance</h3><p>Break up long sitting with a short walk or desk reset. Include balance practice regularly, especially as you get older. Keep support close and use comfortable, unforced stretches.</p><a href="https://www.nhs.uk/live-well/exercise/physical-activity-guidelines-older-adults/">NHS movement guidance ↗</a></article></div>
+      <div class="progress-note"><span class="progress-icon" aria-hidden="true">↗</span><div><h3>To build muscle, let the effort grow.</h3><p>When the top end of your reps feels easy for a few sessions, add a little resistance or a second set. Change one thing at a time. The last few reps should feel challenging while your form stays steady; leave about 2 good reps in reserve. Stretching alone won’t build substantial muscle.</p></div></div>
+    </div></section>
+
+    <section class="guidance-section wrap section" aria-labelledby="guidance-heading"><div><p class="eyebrow">A note about your body</p><h2 id="guidance-heading">Comfortable effort.<br>Room to adapt.</h2></div><div class="guidance-copy"><p>Muscles working is expected. Sharp, pinching, or increasing joint pain is a reason to stop or change the movement. Hold stretches gently, without bouncing, and keep breathing.</p><p>If an injury, recent surgery, osteoporosis, a heart condition, or balance difficulties affect your movement, ask a clinician or physiotherapist which options suit you. This is a general exercise guide, not a personal treatment plan.</p><p>Stop if you feel faint, have chest pain, or get unusually short of breath. Seek urgent medical help for chest pain or severe or persistent symptoms.</p></div></section>
+
+    <section class="sources wrap" aria-label="Sources"><details><summary>Where this guide comes from <span aria-hidden="true">+</span></summary><p>The movements and weekly guidance draw on the health resources below. The office routines and starter amounts are a practical adaptation, not a clinical program. Illustrations are original, simplified movement diagrams. Individual cards link to relevant instructions.</p><ul id="sources-list"></ul><p class="subtle">Reviewed November 10, 2026.</p></details></section>
+  </main>
+
+  <footer class="wrap"><a class="brand footer-brand" href="#top"><span class="brand-mark" aria-hidden="true">↗</span><span>office<br>movement</span></a><p>Make a little room for yourself.</p><div><a href="https://github.com/royschwartz/office-movement">View on GitHub ↗</a><button data-print>Print guide ↗</button></div></footer>
+
+  <dialog id="workout-dialog" aria-labelledby="workout-title"><div class="workout-shell"><div class="workout-top"><span id="workout-position"></span><button id="close-workout" class="close-button" aria-label="Close routine">✕</button></div><div id="workout-body"></div><div class="workout-controls" id="workout-controls"><button id="previous-step" class="button secondary">← Previous</button><button id="toggle-timer" class="button primary">Start timer</button><button id="next-step" class="button secondary">Next →</button></div><p class="workout-footnote" id="workout-footnote">Your pace comes first. Finish your reps, then rest. Move on when you’re ready.</p></div></dialog>
+</body>
+</html>
